@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD [Week] ww [Day] DDD",
+  "template": "_templates/Daily Note Template (My_Basic)",
+  "folder": "Daily Notes"
+}

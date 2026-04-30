@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5c8e5ceff5bb50bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c159c9004856e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca56167d9a1899f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 NoteLab/Obsidian Guide.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Guide"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f23a5296fafac93e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68423098322419a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec3facab638f060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d697ead5e0d440c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#My",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acaddd6f334db560",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad95b1b240467e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf4c99a59805e11",
+        "type": "tabs",
+        "dimension": 69.5540308747856,
+        "children": [
+          {
+            "id": "de8e76f7517fa914",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "START HERE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for START HERE"
+            }
+          },
+          {
+            "id": "751b5f4a2766e233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "START HERE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from START HERE"
+            }
+          },
+          {
+            "id": "2eeaf8b37bd80b9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a555d6458259e6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "START HERE.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of START HERE"
+            }
+          },
+          {
+            "id": "70baa12c6d56e73d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7f5927df3915087b",
+        "type": "tabs",
+        "dimension": 30.44596912521441,
+        "children": [
+          {
+            "id": "8d65d664f487d122",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6ca56167d9a1899f",
+  "lastOpenFiles": [
+    "START HERE.md",
+    "06 Toolkit/Templates/Concept Template.md",
+    "06 Toolkit/Templates/Daily Note Template.md",
+    "06 Toolkit/Templates/Distilled Note Template.md",
+    "06 Toolkit/Templates/Fleeting Note Template.md",
+    "06 Toolkit/Templates/Idea Template.md",
+    "06 Toolkit/Templates/Learning Template.md",
+    "06 Toolkit/Templates/Literature Note Template.md",
+    "06 Toolkit/Templates/Monthly Review Template.md",
+    "06 Toolkit/Templates/People Template.md",
+    "06 Toolkit/Templates/Weekly Review Template.md",
+    "06 Toolkit/Templates/Tools Template.md",
+    "02 Cards/02 Cards.md",
+    "06 Toolkit/06 Toolkit.md",
+    "04 Vault/04 Vault.md",
+    "03 Spaces/03 Spaces.md",
+    "00 NoteLab/00 NoteLab.md",
+    "05 Journal/05 Journal.md",
+    "01 MOCs/01 MOCs.md",
+    "06 Toolkit/Templates/Templates.md",
+    "06 Toolkit/Snippets/MetaBindSnippets/MetaBind Main Navigation.md",
+    "06 Toolkit/Snippets/MetaBindSnippets",
+    "03 Spaces/Bases/05 Journal.base",
+    "03 Spaces/Bases/Bases.md",
+    "03 Spaces/Bases/Bases Index.base",
+    "03 Spaces/Bases/06 Toolkit.base",
+    "03 Spaces/Bases/03 Spaces.base",
+    "03 Spaces/Bases/04 Vault Index.base",
+    "03 Spaces/Bases/02 Cards.base",
+    "03 Spaces/Bases/00 NoteLab.base",
+    "03 Spaces/Bases/01 MOCs.base",
+    "03 Spaces/Bases",
+    "Bases/Bases.md",
+    "00 NoteLab/Obsidian Guide.md",
+    "00 NoteLab/Changelog.md",
+    "00 NoteLab/Setting up your vault.md",
+    "03 Spaces/Canvas Mind Maps/Untitled.canvas"
+  ]
+}

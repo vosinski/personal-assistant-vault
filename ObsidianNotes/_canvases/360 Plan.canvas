@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ba87334b15802207","type":"text","text":"\tSpheres to improve","x":-114,"y":26,"width":250,"height":60},
+		{"id":"0c2258f0f2deaca0","x":-424,"y":77,"width":240,"height":143,"type":"text","text":"Each session structure:\n15–20 min theory\n40–60 min build\n5 min notes\nThat’s it."}
+	],
+	"edges":[]
+}

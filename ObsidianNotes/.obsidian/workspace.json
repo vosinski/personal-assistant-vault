@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "b4a7e8bca3fd0a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "465bc3314e0051c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc68e2ef2ae8426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-03 Week 14 Day 93.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-03 Week 14 Day 93"
+            }
+          },
+          {
+            "id": "c6b4232e6022a455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-26 Week 17 Day 116.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-26 Week 17 Day 116"
+            }
+          },
+          {
+            "id": "eb6d10fff7f4128d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-29 Week 18 Day 119.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-29 Week 18 Day 119"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6df4d2f3de6633a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3811366c9c18023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cbd8c1b45585811",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf65d0ba5ecb8612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "assis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47c49b36633eabda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "325972b39c4e0253",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6902b7bab2c70e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccafe1e787e3e84e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2025-12-23 Week 52 Day 357.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-12-23 Week 52 Day 357"
+            }
+          },
+          {
+            "id": "bd29f3021c2a164c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1dbcad71e4919a8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "588e334a2f50723f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "54a90bff9f502430",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "chronology:Open Chronology": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "eb6d10fff7f4128d",
+  "lastOpenFiles": [
+    "Daily Notes/2026-04-26 Week 17 Day 116.md",
+    "Daily Notes/2026-04-29 Week 18 Day 119.md",
+    "Topics/AI Assistant.md",
+    "Topics/My personal Assistent.md",
+    "Topics/My personal Assistant.md",
+    "Daily Notes/2026-04-18 Week 16 Day 108.md",
+    "_canvases/Timeplaning.canvas",
+    "Untitled.md",
+    "Daily Notes/2026-04-17 Week 16 Day 107.md",
+    "Daily Notes/2026-04-16 Week 16 Day 106.md",
+    "Daily Notes/2026-03-18 Week 12 Day 77.md",
+    "Daily Notes/2026-04-03 Week 14 Day 93.md",
+    "Daily Notes/2026-03-20 Week 12 Day 79.md",
+    "Daily Notes/2026-03-19 Week 12 Day 78.md",
+    "Daily Notes/2026-03-17 Week 12 Day 76.md",
+    "Daily Notes/2026-03-16 Week 12 Day 75.md",
+    "Daily Notes/2026-03-13 Week 11 Day 72.md",
+    "Daily Notes/2026-03-12 Week 11 Day 71.md",
+    "Projects/JobInterview.md",
+    "Projects/Aeroponic Project.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Projects/G.Padalko LO QA.md",
+    "Daily Notes/2026-03-05 Week 10 Day 64.md",
+    "_canvases/Routine canvas.canvas",
+    "Daily Notes/2026-03-03 Week 10 Day 62.md",
+    "Daily Notes/2026-03-02 Week 10 Day 61.md",
+    "Daily Notes/2026-02-27 Week 09 Day 58.md",
+    "Daily Notes/2026-03-01 Week 09 Day 60.md",
+    "Daily Notes/2026-02-28 Week 09 Day 59.md",
+    "_canvases/360 Plan.canvas",
+    "_canvases/Cicle of support.canvas",
+    "_canvases/Untitled.canvas",
+    "_canvases/Molecular Zettelkasten.canvas",
+    "_canvases/Beginner Canvas Example.canvas",
+    "Topics",
+    "Sources",
+    "Projects",
+    "Molecules",
+    "Inboxes",
+    "Daily Notes",
+    "Atoms",
+    "Alloys",
+    "_templates",
+    "_attachments/Templater Initial Settings.png",
+    "_attachments/Molecular Zettelkasten Workflow.png",
+    "_attachments/Inbox Dataview Example Query.png",
+    "_attachments/CODE Method.png",
+    "_attachments/Auto Note Mover Initial Rules.png",
+    "_attachments/Alloy Dataview Inbox Query Example.png",
+    "_attachments/Auto Note Mover Initial Exclusions.png",
+    "Pasted image 20250904192123.png",
+    "Pasted image 20250904192033.png"
+  ]
+}

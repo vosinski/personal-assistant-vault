@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"dac74b30f08f4ac8","type":"file","file":"_attachments/CODE Method.png","x":240,"y":-465,"width":400,"height":225},
+		{"id":"7fe55c308a8d555e","type":"file","file":"_*Starter Kit Notes/Book.md","x":-260,"y":360,"width":250,"height":60},
+		{"id":"a898df594beb159f","type":"file","file":"_*Starter Kit Notes/Building A Second Brain.md","x":200,"y":-120,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a4fc081ab5a15306","fromNode":"7fe55c308a8d555e","fromSide":"top","toNode":"a898df594beb159f","toSide":"bottom"}
+	]
+}

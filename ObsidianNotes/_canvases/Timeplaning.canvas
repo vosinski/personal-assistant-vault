@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"9e19c94539186c40","x":29,"y":114,"width":105,"height":56,"type":"text","text":"HackRF"},
+		{"id":"5929beca6d896da6","x":30,"y":181,"width":110,"height":53,"type":"text","text":"WebPage"},
+		{"id":"7e741821d250caa9","x":31,"y":246,"width":170,"height":57,"type":"text","text":"English/Speaking"},
+		{"id":"292890dd97a6afca","x":187,"y":177,"width":135,"height":55,"type":"text","text":"Ai Coding"},
+		{"id":"26ac9d2fe986327e","x":193,"y":110,"width":101,"height":50,"type":"text","text":"Robotic"}
+	],
+	"edges":[]
+}

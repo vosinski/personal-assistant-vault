@@ -1,0 +1,55 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Sources",
+      "tag": "#source",
+      "pattern": ""
+    },
+    {
+      "folder": "Topics",
+      "tag": "#topic",
+      "pattern": ""
+    },
+    {
+      "folder": "Atoms",
+      "tag": "#atom",
+      "pattern": ""
+    },
+    {
+      "folder": "Alloys",
+      "tag": "#alloy",
+      "pattern": ""
+    },
+    {
+      "folder": "Molecules",
+      "tag": "#molecule",
+      "pattern": ""
+    },
+    {
+      "folder": "Projects",
+      "tag": "#project",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "_attachments"
+    },
+    {
+      "folder": "_canvases"
+    },
+    {
+      "folder": "_templates"
+    },
+    {
+      "folder": "Inboxes"
+    },
+    {
+      "folder": "Daily Notes"
+    }
+  ]
+}
