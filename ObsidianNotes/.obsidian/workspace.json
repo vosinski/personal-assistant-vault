@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "465bc3314e0051c2",
+        "id": "c4892fe38e6da2ed",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc68e2ef2ae8426",
+            "id": "40159cb6416f128a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-04-03 Week 14 Day 93.md",
+                "file": "Daily Notes/2026-05-02 Week 18 Day 122.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-03 Week 14 Day 93"
-            }
-          },
-          {
-            "id": "c6b4232e6022a455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-04-26 Week 17 Day 116.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-26 Week 17 Day 116"
-            }
-          },
-          {
-            "id": "eb6d10fff7f4128d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-04-30 Week 18 Day 120.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-30 Week 18 Day 120"
+              "title": "2026-05-02 Week 18 Day 122"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,6 +161,31 @@
               "icon": "clock",
               "title": "Chronology"
             }
+          },
+          {
+            "id": "d8e7449c3d3b5f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-05-01 Week 18 Day 121.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-01 Week 18 Day 121"
+            }
+          },
+          {
+            "id": "5b753283e46d4256",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
           }
         ],
         "currentTab": 4
@@ -202,8 +196,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -212,14 +204,21 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "chronology:Open Chronology": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb6d10fff7f4128d",
+  "active": "40159cb6416f128a",
   "lastOpenFiles": [
-    "Daily Notes/2026-04-29 Week 18 Day 119.md",
-    "Daily Notes/2026-04-30 Week 18 Day 120.md",
+    "Obsidian Notes",
+    "Daily Notes/2026-04-03 Week 14 Day 93.md",
+    "Daily Notes/2026-05-02 Week 18 Day 122.md",
     "Daily Notes/2026-04-26 Week 17 Day 116.md",
+    "Daily Notes/2026-04-30 Week 18 Day 120.md",
+    "Daily Notes/2026-05-01 Week 18 Day 121.md",
+    "Daily Notes/2026-04-29 Week 18 Day 119.md",
     "Topics/AI Assistant.md",
     "Topics/My personal Assistent.md",
     "Topics/My personal Assistant.md",
@@ -229,7 +228,6 @@
     "Daily Notes/2026-04-17 Week 16 Day 107.md",
     "Daily Notes/2026-04-16 Week 16 Day 106.md",
     "Daily Notes/2026-03-18 Week 12 Day 77.md",
-    "Daily Notes/2026-04-03 Week 14 Day 93.md",
     "Daily Notes/2026-03-20 Week 12 Day 79.md",
     "Daily Notes/2026-03-19 Week 12 Day 78.md",
     "Daily Notes/2026-03-17 Week 12 Day 76.md",
@@ -244,9 +242,6 @@
     "Daily Notes/2026-03-05 Week 10 Day 64.md",
     "_canvases/Routine canvas.canvas",
     "Daily Notes/2026-03-03 Week 10 Day 62.md",
-    "Daily Notes/2026-03-02 Week 10 Day 61.md",
-    "Daily Notes/2026-02-27 Week 09 Day 58.md",
-    "Daily Notes/2026-03-01 Week 09 Day 60.md",
     "_canvases/360 Plan.canvas",
     "_canvases/Cicle of support.canvas",
     "_canvases/Untitled.canvas",

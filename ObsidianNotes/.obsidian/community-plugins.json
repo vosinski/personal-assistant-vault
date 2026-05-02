@@ -4,5 +4,6 @@
   "chronology",
   "templater-obsidian",
   "buttons",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-git"
 ]
