@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-05-19 Week 21 Day 139.md",
+                "file": "Projects/Tekwar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-19 Week 21 Day 139"
+              "title": "Tekwar"
+            }
+          },
+          {
+            "id": "35231c5054d7a7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alloys/Alloy Example - AI Augmented PKM To Overcome Overthinking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Alloy Example - AI Augmented PKM To Overcome Overthinking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,13 +91,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "right": {
     "id": "325972b39c4e0253",
@@ -210,15 +224,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40159cb6416f128a",
+  "active": "35231c5054d7a7a6",
   "lastOpenFiles": [
+    "Atoms/Pareto Principle.md",
+    "Atoms/Generation Effect.md",
+    "Аналогова наземна станція TEKWAR.md",
+    "Projects/Tekwar.md",
+    "Projects/Aeroponic Project.md",
+    "Daily Notes/2026-04-30 Week 18 Day 120.md",
+    "Daily Notes/2026-05-01 Week 18 Day 121.md",
     "Daily Notes/2026-05-02 Week 18 Day 122.md",
     "Daily Notes/2026-05-19 Week 21 Day 139.md",
     "Obsidian Notes",
     "Daily Notes/2026-04-03 Week 14 Day 93.md",
     "Daily Notes/2026-04-26 Week 17 Day 116.md",
-    "Daily Notes/2026-04-30 Week 18 Day 120.md",
-    "Daily Notes/2026-05-01 Week 18 Day 121.md",
     "Daily Notes/2026-04-29 Week 18 Day 119.md",
     "Topics/AI Assistant.md",
     "Topics/My personal Assistent.md",
@@ -235,14 +254,9 @@
     "Daily Notes/2026-03-16 Week 12 Day 75.md",
     "Daily Notes/2026-03-13 Week 11 Day 72.md",
     "Daily Notes/2026-03-12 Week 11 Day 71.md",
-    "Projects/JobInterview.md",
-    "Projects/Aeroponic Project.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Projects/G.Padalko LO QA.md",
-    "Daily Notes/2026-03-05 Week 10 Day 64.md",
     "_canvases/Routine canvas.canvas",
-    "Daily Notes/2026-03-03 Week 10 Day 62.md",
     "_canvases/360 Plan.canvas",
     "_canvases/Cicle of support.canvas",
     "_canvases/Untitled.canvas",
