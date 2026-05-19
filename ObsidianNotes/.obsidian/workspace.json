@@ -67,8 +67,7 @@
               "title": "Поворотний механізм TEKWAR"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,11 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0588e55626e38d7",
+  "active": "40159cb6416f128a",
   "lastOpenFiles": [
+    "Atoms/Щогла телескопічна від 5 до 14,5 м.md",
     "Atoms/Блок багатоканальної швидкої зарядки TEKWAR T-BATT 280.md",
     "Atoms/Поворотний механізм TEKWAR.md",
-    "Atoms/Щогла телескопічна від 5 до 14,5 м.md",
     "Projects/Tekwar.md",
     "Atoms/Літак TEKWAR TW (Tactical Wing).md",
     "Atoms/FPV-дрон TEKWAR 10.md",
