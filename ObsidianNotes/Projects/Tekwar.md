@@ -40,3 +40,17 @@ Products:
 [[8S2P ]] 
 [[8S4P ]] 
 Кастомні АКБ конкретно під задачу.
+
+https://drive.google.com/drive/folders/1G4c2brHvlKkW_tKm6sTtgbxnjnEBp5Fn?usp=sharing
+
+https://drive.google.com/drive/folders/1gvJrADEGaNa_IGL0MPc8rVSVGpLr51nc?usp=sharing 
+
+https://drive.google.com/drive/folders/18uquGt2UT5DBOi7DisYICrBMFTGmsMBI?usp=sharing 
+
+https://drive.google.com/drive/folders/1ZsvxkmAD0kXmab0xjfRF_YtXxjN7HRcR?usp=drive_link
+
+  
+
+  
+
+також, все що потрібно, можна взяти з сайту https://450tactical.com/
