@@ -127,8 +127,24 @@
               "title": "Graph of AI Assistant"
             },
             "group": "3c68ff5ac3d1b5e5"
+          },
+          {
+            "id": "2521fc3d8aac4bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-29 Week 18 Day 119.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-29 Week 18 Day 119"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/AI Assistant.md",
+                "file": "Daily Notes/2026-04-29 Week 18 Day 119.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Assistant"
+              "title": "Backlinks for 2026-04-29 Week 18 Day 119"
             }
           },
           {
@@ -314,12 +330,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d251a35b0eba0c30",
+  "active": "2521fc3d8aac4bf7",
   "lastOpenFiles": [
-    "Daily Notes/2026-05-23 Week 21 Day 143.md",
-    "Daily Notes/2026-05-17 Week 20 Day 137.md",
     "Topics/AI Assistant.md",
     "Daily Notes/2026-04-26 Week 17 Day 116.md",
+    "Daily Notes/2026-05-17 Week 20 Day 137.md",
+    "Daily Notes/2026-05-23 Week 21 Day 143.md",
     "Atoms/Щогла телескопічна від 5 до 14,5 м.md",
     "Topics/My personal Assistant.md",
     "Daily Notes/2026-05-22 Week 21 Day 142.md",
