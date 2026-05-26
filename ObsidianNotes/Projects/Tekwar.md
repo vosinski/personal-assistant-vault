@@ -97,11 +97,11 @@ TEKWAR TBATT
 
 Антени
 
-Антени для FPV та БпЛА TEKWAR
+>Антени для FPV та БпЛА TEKWAR
 
-Тактичні антени для керування та відео
+>Тактичні антени для керування та відео
 
-YAGI, Patch, Helical антени для FPV
+>YAGI, Patch, Helical антени для FPV
 
 FPV-дрони
 
